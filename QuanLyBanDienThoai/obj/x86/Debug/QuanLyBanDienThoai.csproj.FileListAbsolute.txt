@@ -1,0 +1,36 @@
+c:\users\linhdo\documents\visual studio 2010\Projects\QuanLyBanDienThoai\QuanLyBanDienThoai\bin\Debug\QuanLyBanDienThoai.exe
+c:\users\linhdo\documents\visual studio 2010\Projects\QuanLyBanDienThoai\QuanLyBanDienThoai\bin\Debug\QuanLyBanDienThoai.pdb
+c:\users\linhdo\documents\visual studio 2010\Projects\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\x86\Debug\QuanLyBanDienThoai.frmTrangChu.resources
+c:\users\linhdo\documents\visual studio 2010\Projects\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\x86\Debug\QuanLyBanDienThoai.Properties.Resources.resources
+c:\users\linhdo\documents\visual studio 2010\Projects\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\x86\Debug\QuanLyBanDienThoai.csproj.GenerateResource.Cache
+c:\users\linhdo\documents\visual studio 2010\Projects\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\x86\Debug\QuanLyBanDienThoai.exe
+c:\users\linhdo\documents\visual studio 2010\Projects\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\x86\Debug\QuanLyBanDienThoai.pdb
+c:\users\linhdo\documents\visual studio 2010\Projects\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\x86\Debug\QuanLyBanDienThoai.frmHangNhap.resources
+c:\users\linhdo\documents\visual studio 2010\Projects\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\x86\Debug\QuanLyBanDienThoai.frmHangXuat.resources
+c:\users\linhdo\documents\visual studio 2010\Projects\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\x86\Debug\QuanLyBanDienThoai.frmHDNhap.resources
+c:\users\linhdo\documents\visual studio 2010\Projects\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\x86\Debug\QuanLyBanDienThoai.frmHDXuat.resources
+c:\users\linhdo\documents\visual studio 2010\Projects\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\x86\Debug\QuanLyBanDienThoai.frmKhachHang.resources
+c:\users\linhdo\documents\visual studio 2010\Projects\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\x86\Debug\QuanLyBanDienThoai.frmMatHang.resources
+c:\users\linhdo\documents\visual studio 2010\Projects\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\x86\Debug\QuanLyBanDienThoai.frmNCC.resources
+C:\Users\linhdo\documents\visual studio 2010\Projects\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\x86\Debug\QuanLyBanDienThoai.csprojResolveAssemblyReference.cache
+C:\Users\lequo\Downloads\Nhom 5\Quản lý bán hàng  ĐT\QuanLyBanDienThoai\QuanLyBanDienThoai\bin\Debug\QuanLyBanDienThoai.exe
+C:\Users\lequo\Downloads\Nhom 5\Quản lý bán hàng  ĐT\QuanLyBanDienThoai\QuanLyBanDienThoai\bin\Debug\QuanLyBanDienThoai.pdb
+C:\Users\lequo\Downloads\Nhom 5\Quản lý bán hàng  ĐT\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\x86\Debug\QuanLyBanDienThoai.csproj.AssemblyReference.cache
+C:\Users\lequo\Downloads\Nhom 5\Quản lý bán hàng  ĐT\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\x86\Debug\QuanLyBanDienThoai.frmTrangChu.resources
+C:\Users\lequo\Downloads\Nhom 5\Quản lý bán hàng  ĐT\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\x86\Debug\QuanLyBanDienThoai.frmHangNhap.resources
+C:\Users\lequo\Downloads\Nhom 5\Quản lý bán hàng  ĐT\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\x86\Debug\QuanLyBanDienThoai.frmHangXuat.resources
+C:\Users\lequo\Downloads\Nhom 5\Quản lý bán hàng  ĐT\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\x86\Debug\QuanLyBanDienThoai.frmHDNhap.resources
+C:\Users\lequo\Downloads\Nhom 5\Quản lý bán hàng  ĐT\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\x86\Debug\QuanLyBanDienThoai.frmHDXuat.resources
+C:\Users\lequo\Downloads\Nhom 5\Quản lý bán hàng  ĐT\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\x86\Debug\QuanLyBanDienThoai.frmKhachHang.resources
+C:\Users\lequo\Downloads\Nhom 5\Quản lý bán hàng  ĐT\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\x86\Debug\QuanLyBanDienThoai.frmMatHang.resources
+C:\Users\lequo\Downloads\Nhom 5\Quản lý bán hàng  ĐT\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\x86\Debug\QuanLyBanDienThoai.frmNCC.resources
+C:\Users\lequo\Downloads\Nhom 5\Quản lý bán hàng  ĐT\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\x86\Debug\QuanLyBanDienThoai.Properties.Resources.resources
+C:\Users\lequo\Downloads\Nhom 5\Quản lý bán hàng  ĐT\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\x86\Debug\QuanLyBanDienThoai.csproj.GenerateResource.cache
+C:\Users\lequo\Downloads\Nhom 5\Quản lý bán hàng  ĐT\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\x86\Debug\QuanLyBanDienThoai.csproj.CoreCompileInputs.cache
+C:\Users\lequo\Downloads\Nhom 5\Quản lý bán hàng  ĐT\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\x86\Debug\QuanLyBanDienThoai.exe
+C:\Users\lequo\Downloads\Nhom 5\Quản lý bán hàng  ĐT\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\x86\Debug\QuanLyBanDienThoai.pdb
+C:\Users\lequo\Downloads\Nhom 5\Quản lý bán hàng  ĐT\QuanLyBanDienThoai\QuanLyBanDienThoai\bin\Debug\QuanLyBanDienThoai.exe.config
+C:\Users\lequo\Downloads\Nhom 5\Quản lý bán hàng  ĐT\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\x86\Debug\QuanLyBanDienThoai.frmDangNhap.resources
+D:\LT.NET\QuanLyBanDienThoai\obj\x86\Debug\QuanLyBanDienThoai.csproj.AssemblyReference.cache
+D:\LT.NET\QuanLyBanDienThoai\obj\x86\Debug\QuanLyBanDienThoai.exe
+D:\LT.NET\QuanLyBanDienThoai\obj\x86\Debug\QuanLyBanDienThoai.pdb
