@@ -7,7 +7,7 @@ Dự án **Quản Lý Bán Điện Thoại** là một phần mềm quản lý c
 - Quản lý sản phẩm (Thêm, sửa, xóa, tìm kiếm)
 - Quản lý khách hàng và nhà cung cấp
 - Quản lý hóa đơn nhập/xuất
-- Chức năng đăng nhập với vai trò **Admin** và **Nhân viên**
+- Chức năng đăng nhập với vai trò **Admin**
 - Báo cáo doanh thu, tồn kho
 
 ## Công nghệ sử dụng
@@ -45,12 +45,4 @@ Dự án **Quản Lý Bán Điện Thoại** là một phần mềm quản lý c
 - **Admin:**  
   - Tài khoản: `admin`  
   - Mật khẩu: `admin123`
-- **Nhân viên:**  
-  - Tài khoản: `nhanvien`  
-  - Mật khẩu: `nv123`
 
-## Đóng góp
-Nếu bạn muốn đóng góp vào dự án, vui lòng gửi **pull request** hoặc liên hệ với mình.
-
-## Giấy phép
-Dự án này được phát hành theo giấy phép **MIT License**.
